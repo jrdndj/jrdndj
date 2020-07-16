@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Check out my website at https://jrdndj.github.io
+
+
+- 🔭 I’m currently working on adaptive visualizations for music learning. 
+
 <!--
 **jrdndj/jrdndj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
