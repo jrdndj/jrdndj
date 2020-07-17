@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## go google "cramming professor meme" 
+
 ## Check out my website at https://jrdndj.github.io
 
 
