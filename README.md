@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## go google "cramming professor meme" 
+### go google "cramming professor meme" 
 
-## Check out my website at https://jrdndj.github.io
+### Check out my website at https://jrdndj.github.io
 
 
 - 🔭 I’m currently working on adaptive visualizations for music learning. 
