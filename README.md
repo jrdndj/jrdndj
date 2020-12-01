@@ -4,15 +4,11 @@
 
 - 🔭 I’m currently working on computational interactions and adaptive visualizations on music learning
 
-- 📫 If you wish to collaborate or communicate with me you may send me an email to  **jordan.deja@famnit.upr.si**
-
 - ⚡ Fun fact: If you go google "cramming professor meme", you'll see me in the top results. 
 
+- 🌏 Check out my website at https://jrdndj.github.io
 
-### Check out my website at https://jrdndj.github.io
-
-
-- 🔭 I’m currently working on adaptive visualizations for music learning. 
+- 📫 If you wish to collaborate or communicate with me you may send me an email to  **jordan.deja@famnit.upr.si**
 
 <!--
 **jrdndj/jrdndj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
