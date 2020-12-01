@@ -1,6 +1,13 @@
-### Hi there 👋
+<h2 align="center">Mabuhay! 👋 my name is Jordan. </h2>
 
-### go google "cramming professor meme" 
+<p align="center">I am a Filipino🇵🇭 HCI researcher currently based in Koper, Slovenia 🇸🇮. I’m a PhD student in the <a href="https://hicuplab.com">HICUP</a> research group at the <a href="https://www.upr.si/en">University of Primorska</a>. Prior to that, I earned my bachelor’s (BS) and master’s (MS) degrees in Computer Science from <a href="https://www.dlsu.edu.ph">De La Salle University</a>.
+
+- 🔭 I’m currently working on computational interactions and adaptive visualizations on music learning
+
+- 📫 If you wish to collaborate or communicate with me you may send me an email to  **jordan.deja@famnit.upr.si**
+
+- ⚡ Fun fact: If you go google "cramming professor meme", you'll see me in the top results. 
+
 
 ### Check out my website at https://jrdndj.github.io
 
@@ -21,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
