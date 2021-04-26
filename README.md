@@ -1,6 +1,6 @@
 <h2 align="center">Mabuhay! 👋 My name is Jordan. </h2>
 
-<p align="center">I am a Filipino🇵🇭 HCI researcher currently based in Koper, Slovenia 🇸🇮. I’m a PhD student in the <a href="https://hicuplab.com">HICUP</a> research group at the <a href="https://www.upr.si/en">University of Primorska</a>. Prior to that, I earned my bachelor’s (BS) and master’s (MS) degrees in Computer Science from <a href="https://www.dlsu.edu.ph">De La Salle University</a>.
+<p align="center">I am a Filipino🇵🇭 HCI researcher currently based in Koper, Slovenia 🇸🇮. I’m a PhD student in the <a href="https://hicup.famnit.upr.si">HICUP</a> research group at the <a href="https://www.upr.si/en">University of Primorska</a>. Prior to that, I earned my bachelor’s (BS) and master’s (MS) degrees in Computer Science from <a href="https://www.dlsu.edu.ph">De La Salle University</a>.
 
 - 🔭 I’m currently working on computational interactions and adaptive visualizations on music learning
 
