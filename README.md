@@ -8,7 +8,7 @@
 
 - 🌏 Check out my website at https://jrdndj.com
 
-- 📫 If you wish to collaborate or communicate with me you may send me an email to  **jordan.deja[at]famnit[dot]upr[dotsi**
+- 📫 If you wish to collaborate or communicate with me you may send me an email to  **jordan.deja[at]famnit[dot]upr[dot]si**
 
 <!--
 **jrdndj/jrdndj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
