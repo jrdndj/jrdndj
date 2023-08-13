@@ -1,16 +1,13 @@
-<h2 align="center">Mabuhay! 👋 My name is Jordan. </h2>
+## Mabuhay! 👋 My name is Jordan. 
 
-<p align="center">I'm an HCI researcher currently based in Koper, Slovenia 🇸🇮. I’m a PhD student in the <a href="https://hicup.famnit.upr.si">HICUP</a> research group at the <a href="https://www.upr.si/en">University of Primorska</a>. Prior to that, I earned my bachelor’s (BS) and master’s (MS) degrees in Computer Science from <a href="https://www.dlsu.edu.ph">De La Salle University</a>. I am also part of the <a href="https://comet.dlsu.edu.ph">DLSU Center for Complexity and Emerging Technologies</a>. I also lead the Research group of <a href="https://uxph.org">UX Philippines</a>. 
+![pv](https://pageview.vercel.app/?github_user=jrdndj)
 
-- 🔭 I’m currently working on augmented reality, visualizations in music learning.
-  
-- 💬 I am also working on human-swarm interaction with nanodrones. 
-  
-- ⚡ Fun fact: If you go google "cramming professor meme", you'll see me in the top results. 
+I'm an HCI researcher currently based in Koper, Slovenia 🇸🇮.
 
-- 🌏 Check out my website at https://jrdndj.com.
-
-- 📫 If you wish to collaborate or communicate with me you may send me an email to  **jordan.deja[at]famnit[dot]upr[dot]si**
+* 🔭 Interested in Augmented Reality, Music, Visualizations, Drones and discovering newer applications of AI. 
+* 💬 I brew my own coffee. 
+* ⚡ Fun fact: If you go google "cramming professor meme", you'll see me in the top results. 
+* 🌏 Check out my website at https://jrdndj.com.
 
 <!--
 **jrdndj/jrdndj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +23,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![pv](https://pageview.vercel.app/?github_user=jrdndj)
+
+
+### GitHub Stats
+<!---<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrdndj&theme=dark#gh-dark-mode-only)" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrdndj&theme=default#gh-light-mode-only)" />
+</a>-->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrdndj&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrdndj&count_private=true&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
+
+
 
 
