@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrdndj&show_icons=true&theme=transparent&title_color=transparent&text_color=transparent&locale=en&layout=compact" alt="jrdndj" /></p>
+
+
 <!---<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrdndj&theme=dark#gh-dark-mode-only)" />
 </a>
@@ -33,10 +36,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrdndj&theme=default#gh-light-mode-only)" />
 </a>-->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrdndj&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrdndj&count_private=true&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrdndj&count_private=true&show_icons=true&theme=default#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrdndj&count_private=true&show_icons=true&theme=transparent" />
 </a>
 
 
