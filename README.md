@@ -7,7 +7,7 @@ I'm an HCI researcher currently based in Koper, Slovenia 🇸🇮.
 * 🔭 Interested in Augmented Reality, Music, Visualizations, Drones and discovering newer applications of AI. 
 * 💬 I brew my own coffee. 
 * ⚡ Fun fact: If you go google "cramming professor meme", you'll see me in the top results. 
-* 🌏 Check out my website at https://jrdndj.com.
+* 🌏 Check out my website at https://jrdndj.notion.site
 
 <!--
 **jrdndj/jrdndj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
