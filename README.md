@@ -2,7 +2,7 @@
 
 ![pv](https://pageview.vercel.app/?github_user=jrdndj)
 
-I'm an HCI researcher currently based in Koper, Slovenia 🇸🇮.
+I'm an HCI researcher currently based in Manila, Philippines 🇸🇮.
 
 * 🔭 Interested in Augmented Reality, Music, Visualizations, Drones and discovering newer applications of AI. 
 * 💬 I brew my own coffee. 
